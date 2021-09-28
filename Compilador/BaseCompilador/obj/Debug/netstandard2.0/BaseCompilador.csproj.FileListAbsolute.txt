@@ -1,0 +1,16 @@
+G:\Meu Drive\UEZO\Compiladores\Material\Semana 11\teste\Compilador\BaseCompilador\obj\Debug\netstandard2.0\BaseCompilador.AssemblyInfoInputs.cache
+G:\Meu Drive\UEZO\Compiladores\Material\Semana 11\teste\Compilador\BaseCompilador\obj\Debug\netstandard2.0\BaseCompilador.AssemblyInfo.cs
+G:\Meu Drive\UEZO\Compiladores\Material\Semana 11\teste\Compilador\BaseCompilador\obj\Debug\netstandard2.0\BaseCompilador.csproj.CoreCompileInputs.cache
+G:\Meu Drive\UEZO\Compiladores\Material\Semana 11\teste\Compilador\BaseCompilador\bin\Debug\netstandard2.0\BaseCompilador.deps.json
+G:\Meu Drive\UEZO\Compiladores\Material\Semana 11\teste\Compilador\BaseCompilador\bin\Debug\netstandard2.0\BaseCompilador.dll
+G:\Meu Drive\UEZO\Compiladores\Material\Semana 11\teste\Compilador\BaseCompilador\bin\Debug\netstandard2.0\BaseCompilador.pdb
+G:\Meu Drive\UEZO\Compiladores\Material\Semana 11\teste\Compilador\BaseCompilador\obj\Debug\netstandard2.0\BaseCompilador.dll
+G:\Meu Drive\UEZO\Compiladores\Material\Semana 11\teste\Compilador\BaseCompilador\obj\Debug\netstandard2.0\BaseCompilador.pdb
+G:\Meu Drive\UEZO\Compiladores\Material\Semana 11\Trabalho\Compilador\BaseCompilador\bin\Debug\netstandard2.0\BaseCompilador.deps.json
+G:\Meu Drive\UEZO\Compiladores\Material\Semana 11\Trabalho\Compilador\BaseCompilador\bin\Debug\netstandard2.0\BaseCompilador.dll
+G:\Meu Drive\UEZO\Compiladores\Material\Semana 11\Trabalho\Compilador\BaseCompilador\bin\Debug\netstandard2.0\BaseCompilador.pdb
+G:\Meu Drive\UEZO\Compiladores\Material\Semana 11\Trabalho\Compilador\BaseCompilador\obj\Debug\netstandard2.0\BaseCompilador.AssemblyInfoInputs.cache
+G:\Meu Drive\UEZO\Compiladores\Material\Semana 11\Trabalho\Compilador\BaseCompilador\obj\Debug\netstandard2.0\BaseCompilador.AssemblyInfo.cs
+G:\Meu Drive\UEZO\Compiladores\Material\Semana 11\Trabalho\Compilador\BaseCompilador\obj\Debug\netstandard2.0\BaseCompilador.csproj.CoreCompileInputs.cache
+G:\Meu Drive\UEZO\Compiladores\Material\Semana 11\Trabalho\Compilador\BaseCompilador\obj\Debug\netstandard2.0\BaseCompilador.dll
+G:\Meu Drive\UEZO\Compiladores\Material\Semana 11\Trabalho\Compilador\BaseCompilador\obj\Debug\netstandard2.0\BaseCompilador.pdb

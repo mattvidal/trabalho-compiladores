@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6YfzYmnG0fkLBsHito1LnrFRWgFHoFsitXEb4dQeN/7GPZTYRV9zs6AjTl4lYD/FqDXwG8RLu0VvWbsb0s6Tbw==",
+  "success": true,
+  "projectFilePath": "G:\\Meu Drive\\UEZO\\Compiladores\\Material\\Semana 11\\Trabalho\\Compilador\\BaseCompilador\\BaseCompilador.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mathe\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
