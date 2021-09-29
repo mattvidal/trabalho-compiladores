@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Meu Drive\\UEZO\\Compiladores\\Material\\Semana 11\\Trabalho\\Compilador\\Compilador\\Compilador.csproj",
+      "projectUniqueName": "P:\\C#\\trabalho-compiladores\\Compilador\\Compilador\\Compilador.csproj",
       "projectName": "Compilador",
-      "projectPath": "G:\\Meu Drive\\UEZO\\Compiladores\\Material\\Semana 11\\Trabalho\\Compilador\\Compilador\\Compilador.csproj",
+      "projectPath": "P:\\C#\\trabalho-compiladores\\Compilador\\Compilador\\Compilador.csproj",
       "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-      "outputPath": "G:\\Meu Drive\\UEZO\\Compiladores\\Material\\Semana 11\\Trabalho\\Compilador\\Compilador\\obj\\",
+      "outputPath": "P:\\C#\\trabalho-compiladores\\Compilador\\Compilador\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "G:\\Meu Drive\\UEZO\\Compiladores\\Material\\Semana 11\\Trabalho\\Compilador\\BaseCompilador\\BaseCompilador.csproj": {
-              "projectPath": "G:\\Meu Drive\\UEZO\\Compiladores\\Material\\Semana 11\\Trabalho\\Compilador\\BaseCompilador\\BaseCompilador.csproj"
+            "P:\\C#\\trabalho-compiladores\\Compilador\\BaseCompilador\\BaseCompilador.csproj": {
+              "projectPath": "P:\\C#\\trabalho-compiladores\\Compilador\\BaseCompilador\\BaseCompilador.csproj"
             }
           }
         }

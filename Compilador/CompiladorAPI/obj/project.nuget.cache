@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pnL6pK7ilJXeAHiZluC+eEPdv/ilWelE8821r+0/d8p/wnnpqrp+R/dJ5A3awMVTd+4izxv8wmmWjvxl/r4Qkw==",
+  "dgSpecHash": "IxEG5nDvza/CPDOtVSLRCM53AoL3dRr/M9Wpx4Aq3sRbMw3M5zcVkKlcTcx5CIxpAZa9gWWqD5luX8u5Cx1LZQ==",
   "success": true,
-  "projectFilePath": "G:\\Meu Drive\\UEZO\\Compiladores\\Material\\Semana 11\\Trabalho\\Compilador\\CompiladorAPI\\CompiladorAPI.csproj",
+  "projectFilePath": "P:\\C#\\trabalho-compiladores\\Compilador\\CompiladorAPI\\CompiladorAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mathe\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

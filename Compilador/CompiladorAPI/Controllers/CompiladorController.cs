@@ -56,10 +56,52 @@ namespace CompiladorAPI.Controllers
                 return StatusCode(400, "Entrada vazia.");
             }
 
-            //return InputAndOutput.OutputText.ToString();
+        }
+
+        [Route("ContemErros")]
+        [HttpPost]
+        public IActionResult ContemErros([FromBody] string codigo)
+        {
+            // Exemplo 1
+            //"{int i; int j; float v; float x; float[100] a; while (true) { do i = i+1; while (a[i] < v); do j = j+1; while (a[j] > v); if (i >= j) break; x = a[i]; a[i] = a[j]; a[j] = x; }}";
+
+            // Exemplo 2
+            //"{ int i; i = 0; while (i < 100) { i = i + 1; } }"
+
+            //Validando string vazia
+            if (!string.IsNullOrEmpty(codigo))
+            {
+                try
+                {
+                    InputAndOutput.InputText = codigo;
+
+                    InputAndOutput.OutputText.Clear();
+                    InputAndOutput.ErrorText.Clear();
+                    CompilerLexer lex = new CompilerLexer();
+                    CompilerParser par = new CompilerParser(lex);
+                    par.Program();
 
 
-            // return InputAndOutput.ErrorText.ToString();
+                    if (!string.IsNullOrEmpty(InputAndOutput.ErrorText.ToString()))
+                    {
+                        return Ok(true);
+                    }
+                    else
+                    {
+                        return Ok(false);
+                    }
+                }
+                catch (Exception ex)
+                {
+                    throw new HttpRequestException(ex.ToString());
+                }
+
+            }
+            else
+            {
+                return StatusCode(400, "Entrada vazia.");
+            }
+
         }
     }
 }

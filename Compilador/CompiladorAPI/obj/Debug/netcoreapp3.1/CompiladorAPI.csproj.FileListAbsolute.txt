@@ -26,3 +26,31 @@ G:\Meu Drive\UEZO\Compiladores\Material\Semana 11\Trabalho\Compilador\Compilador
 G:\Meu Drive\UEZO\Compiladores\Material\Semana 11\Trabalho\Compilador\CompiladorAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
 G:\Meu Drive\UEZO\Compiladores\Material\Semana 11\Trabalho\Compilador\CompiladorAPI\bin\Debug\netcoreapp3.1\BaseCompilador.dll
 G:\Meu Drive\UEZO\Compiladores\Material\Semana 11\Trabalho\Compilador\CompiladorAPI\bin\Debug\netcoreapp3.1\BaseCompilador.pdb
+P:\C#\trabalho-compiladores\Compilador\CompiladorAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+P:\C#\trabalho-compiladores\Compilador\CompiladorAPI\bin\Debug\netcoreapp3.1\appsettings.json
+P:\C#\trabalho-compiladores\Compilador\CompiladorAPI\bin\Debug\netcoreapp3.1\CompiladorAPI.exe
+P:\C#\trabalho-compiladores\Compilador\CompiladorAPI\bin\Debug\netcoreapp3.1\CompiladorAPI.deps.json
+P:\C#\trabalho-compiladores\Compilador\CompiladorAPI\bin\Debug\netcoreapp3.1\CompiladorAPI.runtimeconfig.json
+P:\C#\trabalho-compiladores\Compilador\CompiladorAPI\bin\Debug\netcoreapp3.1\CompiladorAPI.runtimeconfig.dev.json
+P:\C#\trabalho-compiladores\Compilador\CompiladorAPI\bin\Debug\netcoreapp3.1\CompiladorAPI.dll
+P:\C#\trabalho-compiladores\Compilador\CompiladorAPI\bin\Debug\netcoreapp3.1\CompiladorAPI.pdb
+P:\C#\trabalho-compiladores\Compilador\CompiladorAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+P:\C#\trabalho-compiladores\Compilador\CompiladorAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+P:\C#\trabalho-compiladores\Compilador\CompiladorAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+P:\C#\trabalho-compiladores\Compilador\CompiladorAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+P:\C#\trabalho-compiladores\Compilador\CompiladorAPI\bin\Debug\netcoreapp3.1\BaseCompilador.dll
+P:\C#\trabalho-compiladores\Compilador\CompiladorAPI\bin\Debug\netcoreapp3.1\BaseCompilador.pdb
+P:\C#\trabalho-compiladores\Compilador\CompiladorAPI\obj\Debug\netcoreapp3.1\CompiladorAPI.csprojAssemblyReference.cache
+P:\C#\trabalho-compiladores\Compilador\CompiladorAPI\obj\Debug\netcoreapp3.1\CompiladorAPI.AssemblyInfoInputs.cache
+P:\C#\trabalho-compiladores\Compilador\CompiladorAPI\obj\Debug\netcoreapp3.1\CompiladorAPI.AssemblyInfo.cs
+P:\C#\trabalho-compiladores\Compilador\CompiladorAPI\obj\Debug\netcoreapp3.1\CompiladorAPI.csproj.CoreCompileInputs.cache
+P:\C#\trabalho-compiladores\Compilador\CompiladorAPI\obj\Debug\netcoreapp3.1\CompiladorAPI.MvcApplicationPartsAssemblyInfo.cs
+P:\C#\trabalho-compiladores\Compilador\CompiladorAPI\obj\Debug\netcoreapp3.1\CompiladorAPI.MvcApplicationPartsAssemblyInfo.cache
+P:\C#\trabalho-compiladores\Compilador\CompiladorAPI\obj\Debug\netcoreapp3.1\staticwebassets\CompiladorAPI.StaticWebAssets.Manifest.cache
+P:\C#\trabalho-compiladores\Compilador\CompiladorAPI\obj\Debug\netcoreapp3.1\staticwebassets\CompiladorAPI.StaticWebAssets.xml
+P:\C#\trabalho-compiladores\Compilador\CompiladorAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\CompiladorAPI.styles.css
+P:\C#\trabalho-compiladores\Compilador\CompiladorAPI\obj\Debug\netcoreapp3.1\CompiladorAPI.RazorTargetAssemblyInfo.cache
+P:\C#\trabalho-compiladores\Compilador\CompiladorAPI\obj\Debug\netcoreapp3.1\CompiladorAPI.csproj.CopyComplete
+P:\C#\trabalho-compiladores\Compilador\CompiladorAPI\obj\Debug\netcoreapp3.1\CompiladorAPI.dll
+P:\C#\trabalho-compiladores\Compilador\CompiladorAPI\obj\Debug\netcoreapp3.1\CompiladorAPI.pdb
+P:\C#\trabalho-compiladores\Compilador\CompiladorAPI\obj\Debug\netcoreapp3.1\CompiladorAPI.genruntimeconfig.cache

@@ -14,3 +14,12 @@ G:\Meu Drive\UEZO\Compiladores\Material\Semana 11\Trabalho\Compilador\BaseCompil
 G:\Meu Drive\UEZO\Compiladores\Material\Semana 11\Trabalho\Compilador\BaseCompilador\obj\Debug\netstandard2.0\BaseCompilador.csproj.CoreCompileInputs.cache
 G:\Meu Drive\UEZO\Compiladores\Material\Semana 11\Trabalho\Compilador\BaseCompilador\obj\Debug\netstandard2.0\BaseCompilador.dll
 G:\Meu Drive\UEZO\Compiladores\Material\Semana 11\Trabalho\Compilador\BaseCompilador\obj\Debug\netstandard2.0\BaseCompilador.pdb
+P:\C#\trabalho-compiladores\Compilador\BaseCompilador\bin\Debug\netstandard2.0\BaseCompilador.deps.json
+P:\C#\trabalho-compiladores\Compilador\BaseCompilador\bin\Debug\netstandard2.0\BaseCompilador.dll
+P:\C#\trabalho-compiladores\Compilador\BaseCompilador\bin\Debug\netstandard2.0\BaseCompilador.pdb
+P:\C#\trabalho-compiladores\Compilador\BaseCompilador\obj\Debug\netstandard2.0\BaseCompilador.csprojAssemblyReference.cache
+P:\C#\trabalho-compiladores\Compilador\BaseCompilador\obj\Debug\netstandard2.0\BaseCompilador.AssemblyInfoInputs.cache
+P:\C#\trabalho-compiladores\Compilador\BaseCompilador\obj\Debug\netstandard2.0\BaseCompilador.AssemblyInfo.cs
+P:\C#\trabalho-compiladores\Compilador\BaseCompilador\obj\Debug\netstandard2.0\BaseCompilador.csproj.CoreCompileInputs.cache
+P:\C#\trabalho-compiladores\Compilador\BaseCompilador\obj\Debug\netstandard2.0\BaseCompilador.dll
+P:\C#\trabalho-compiladores\Compilador\BaseCompilador\obj\Debug\netstandard2.0\BaseCompilador.pdb

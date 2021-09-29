@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mUjTdeoLniQX4GrYRWN7KqT5DOVYGgijTTIPSv3lmqlZ8+ztpfH86WJDSSEToPFrDSQ0xBhRJQLj/MINikEebw==",
+  "dgSpecHash": "JCPwMNrGAGjIk+K+XvKolPI0zgDddx6xADV4EIn0yn+W+3gaKiAwbDFV51TwIP1uYWoBlRCTSpJJbWvXi5Lm4w==",
   "success": true,
-  "projectFilePath": "G:\\Meu Drive\\UEZO\\Compiladores\\Material\\Semana 11\\Trabalho\\Compilador\\Compilador\\Compilador.csproj",
+  "projectFilePath": "P:\\C#\\trabalho-compiladores\\Compilador\\Compilador\\Compilador.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mathe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
   ],

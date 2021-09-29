@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Meu Drive\\UEZO\\Compiladores\\Material\\Semana 11\\Trabalho\\Compilador\\BaseCompilador\\BaseCompilador.csproj",
+      "projectUniqueName": "P:\\C#\\trabalho-compiladores\\Compilador\\BaseCompilador\\BaseCompilador.csproj",
       "projectName": "BaseCompilador",
-      "projectPath": "G:\\Meu Drive\\UEZO\\Compiladores\\Material\\Semana 11\\Trabalho\\Compilador\\BaseCompilador\\BaseCompilador.csproj",
+      "projectPath": "P:\\C#\\trabalho-compiladores\\Compilador\\BaseCompilador\\BaseCompilador.csproj",
       "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-      "outputPath": "G:\\Meu Drive\\UEZO\\Compiladores\\Material\\Semana 11\\Trabalho\\Compilador\\BaseCompilador\\obj\\",
+      "outputPath": "P:\\C#\\trabalho-compiladores\\Compilador\\BaseCompilador\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
